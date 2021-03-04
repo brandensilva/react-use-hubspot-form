@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.0](https://github.com/brandensilva/react-use-hubspot-form/compare/v1.2.2...v1.3.0) (2021-3-4)
+
+- Upgraded dependencies to support react and react-dom 17.0.1
+- Changed process.browser conditoinal to a window conditional check. process.browser is no longer polyfilled in webpack 5
+
 ### [1.2.2](https://github.com/aaronhayes/react-use-hubspot-form/compare/v1.2.1...v1.2.2) (2020-11-10)
 
 ### Bug Fixes
